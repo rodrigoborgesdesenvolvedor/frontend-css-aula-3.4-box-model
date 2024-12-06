@@ -1,0 +1,20 @@
+.display-block {
+    display: block;
+    height: 200px;
+    background-color: blue;
+    border-radius: 11px;
+    border: 1px solid black;
+
+}
+
+.display-inline {
+    display: inline;
+    background-color: blue;
+    border-radius: 11px;
+}
+
+.display-inline-block {
+    display: inline-block;
+    background-color: blue;
+    border-radius: 11px;
+}
